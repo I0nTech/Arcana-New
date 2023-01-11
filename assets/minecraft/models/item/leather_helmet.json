@@ -1,0 +1,51 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_helmet",
+    "layer1": "item/leather_helmet_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/golem_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "custom/forest_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "custom/mithril_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/skeletal_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "custom/skeletal_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18001
+      },
+      "model": "magic:icons/spells/hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18002
+      },
+      "model": "magic:icons_disabled/spells/hat"
+    }
+  ]
+}

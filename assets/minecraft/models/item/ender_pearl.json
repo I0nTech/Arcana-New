@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ender_pearl"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/golem_core"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18001
+      },
+      "model": "magic:icons/spells/blink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18002
+      },
+      "model": "magic:icons_disabled/spells/blink"
+    }
+  ]
+}

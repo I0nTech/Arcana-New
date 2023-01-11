@@ -1,0 +1,45 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/potion_overlay",
+    "layer1": "item/potion"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/mendwounds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "custom/arcane_essence"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "custom/fire_essence"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "custom/wind_essence"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18001
+      },
+      "model": "magic:food/coffee"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18002
+      },
+      "model": "magic:food/tea"
+    }
+  ]
+}

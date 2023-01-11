@@ -1,0 +1,98 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/prismarine_shard"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/raw_mithril"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "custom/manabolt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "custom/focusbolt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "custom/scattershot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/shatterbolts"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "custom/magicburst"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "custom/manablast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "custom/magicbullet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "custom/arcanemissiles"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18001
+      },
+      "model": "magic:icons/spells/missile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18002
+      },
+      "model": "magic:icons_disabled/spells/missile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18003
+      },
+      "model": "magic:icons/spells/railgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18004
+      },
+      "model": "magic:icons_disabled/spells/railgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18005
+      },
+      "model": "magic:icons/spells/projectile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18006
+      },
+      "model": "magic:icons_disabled/spells/projectile"
+    }
+  ]
+}

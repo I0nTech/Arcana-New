@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "custom/titanium_ingot",
+    "layer1": "custom/blank"
+  }
+}

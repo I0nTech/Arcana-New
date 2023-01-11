@@ -1,0 +1,243 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/firework_star",
+    "layer1": "item/firework_star_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/clusterstrike"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "custom/cobalt_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "custom/raw_cobalt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "custom/silver_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "custom/raw_silver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "custom/titanium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "custom/raw_titanium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "custom/forest_essence"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "custom/mithril_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "custom/raw_mithril"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "custom/manastone_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "custom/manastone_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "custom/manastone_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "custom/clay_mix"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "custom/reinforced_clay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "custom/golem_module"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "custom/golem_core"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "custom/perfect_mithril"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "custom/withered_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "custom/withered_bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "custom/withered_heart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "custom/infused_manastone_fire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "custom/infused_manastone_wind"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "custom/silver_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "custom/titanium_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "custom/cobalt_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "custom/leather_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "custom/banded_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "custom/full_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "custom/light_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "custom/fire_lining"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "custom/wind_lining"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "custom/arcane_lining"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "custom/scorched_lining"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "custom/blood_lining"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "custom/forest_lining"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "custom/manastone_lining"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18001
+      },
+      "model": "magic:icons/spells/flare"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18002
+      },
+      "model": "magic:icons_disabled/spells/flare"
+    }
+  ]
+}

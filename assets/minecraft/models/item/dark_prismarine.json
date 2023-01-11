@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/dark_prismarine",
+  "overrides": 
+  [
+    {
+      "predicate": 
+      {
+        "custom_model_data": 1
+      },
+      "model": "custom/arcanehail"
+    }
+  ]
+}

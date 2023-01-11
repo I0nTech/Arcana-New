@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "custom/manastone_1",
+    "layer1": "custom/blank"
+  }
+}

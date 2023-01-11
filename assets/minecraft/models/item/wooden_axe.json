@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_axe"
+  },
+  "overrides": 
+  [
+    {
+      "predicate": 
+      {
+        "custom_model_data": 1
+      },
+      "model": "custom/golem_hammer"
+    },
+    {
+      "predicate": 
+      {
+        "custom_model_data": 2
+      },
+      "model": "custom/skeleton_greataxe"
+    }
+  ]
+}

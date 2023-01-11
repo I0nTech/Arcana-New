@@ -1,0 +1,7 @@
+{
+    "parent" : "magic:base/icon_disabled",
+    "textures": {
+        "particle": "magic:icons/spells/barrier",
+        "texture": "magic:icons/spells/barrier"
+    }
+}

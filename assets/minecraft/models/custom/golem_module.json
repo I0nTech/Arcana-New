@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom/golem_module",
+    "layer1": "custom/blank"
+  }
+}
