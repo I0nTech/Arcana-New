@@ -845,7 +845,7 @@
         },
         {
             "type": "bitmap",
-            "file": "magic:icons/spells/arcanestar.png",
+            "file": "magic:icons/spells/arcanehail.png",
             "ascent": 10,
             "height": 16,
             "chars": [
@@ -854,7 +854,7 @@
         },
         {
             "type": "bitmap",
-            "file": "magic:icons/spells/scattershot.png",
+            "file": "magic:icons/spells/arcanestar.png",
             "ascent": 10,
             "height": 16,
             "chars": [
@@ -863,7 +863,7 @@
         },
         {
             "type": "bitmap",
-            "file": "magic:icons/spells/burstshot.png",
+            "file": "magic:icons/spells/scattershot.png",
             "ascent": 10,
             "height": 16,
             "chars": [
@@ -872,7 +872,7 @@
         },
         {
             "type": "bitmap",
-            "file": "magic:icons/spells/barrier.png",
+            "file": "magic:icons/spells/burstshot.png",
             "ascent": 10,
             "height": 16,
             "chars": [
@@ -881,7 +881,7 @@
         },
         {
             "type": "bitmap",
-            "file": "magic:icons/spells/shell.png",
+            "file": "magic:icons/spells/barrier.png",
             "ascent": 10,
             "height": 16,
             "chars": [
@@ -890,7 +890,7 @@
         },
         {
             "type": "bitmap",
-            "file": "magic:icons/spells/construct.png",
+            "file": "magic:icons/spells/shell.png",
             "ascent": 10,
             "height": 16,
             "chars": [
@@ -899,7 +899,7 @@
         },
         {
             "type": "bitmap",
-            "file": "magic:icons/spells/deflector.png",
+            "file": "magic:icons/spells/construct.png",
             "ascent": 10,
             "height": 16,
             "chars": [
@@ -908,7 +908,7 @@
         },
         {
             "type": "bitmap",
-            "file": "magic:icons/spells/arrowrain.png",
+            "file": "magic:icons/spells/deflector.png",
             "ascent": 10,
             "height": 16,
             "chars": [
